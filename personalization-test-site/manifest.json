@@ -1,0 +1,17 @@
+{
+  "sap.app": {
+    "id": "my.ui5.app",
+    "type": "application"
+  },
+  "sap.ui5": {
+    "rootView": {
+      "viewName": "my.ui5.app.view.App",
+      "type": "JS"
+    },
+    "dependencies": {
+      "libs": {
+        "sap.m": {}
+      }
+    }
+  }
+}
